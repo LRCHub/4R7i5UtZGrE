@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "WWW",
+  "base_artist": "HIMEHINA",
+  "createdAt": "2025-12-10T13:10:50.255081Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "WWW Dot",
+      "artist": "Chumbawamba",
+      "has_synced": false,
+      "path": "select/01_WWW_Dot_Chumbawamba.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Alakazam ! x Fire (WWW)",
+      "artist": "Justice",
+      "has_synced": false,
+      "path": "select/02_Alakazam_!_x_Fire_(WWW)_Justice.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Canon x Love S.O.S. (WWW)",
+      "artist": "Justice",
+      "has_synced": true,
+      "path": "select/03_Canon_x_Love_S.O.S._(WWW)_Justice.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "D.A.N.C.E. x Fire x Safe and Sound (WWW)",
+      "artist": "Justice",
+      "has_synced": true,
+      "path": "select/04_D.A.N.C.E._x_Fire_x_Safe_and_Sound_(WWW)_Justice.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Heavy Metal x DVNO (WWW)",
+      "artist": "Justice",
+      "has_synced": true,
+      "path": "select/05_Heavy_Metal_x_DVNO_(WWW)_Justice.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pleasure x Newjack x Civilization (WWW)",
+      "artist": "Justice",
+      "has_synced": true,
+      "path": "select/06_Pleasure_x_Newjack_x_Civilization_(WWW)_Justice.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Waters of Nazareth x We Are your Friends x Phantom 2 (WWW)",
+      "artist": "Justice",
+      "has_synced": true,
+      "path": "select/07_Waters_of_Nazareth_x_We_Are_your_Friends_x_Phantom_2_(WWW)_Justice.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lettere dal WWW",
+      "artist": "Elio e le Storie Tese",
+      "has_synced": true,
+      "path": "select/08_Lettere_dal_WWW_Elio_e_le_Storie_Tese.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dangal [www.atozmusiq.in]",
+      "artist": "Pritam & Daler Mehndi",
+      "has_synced": true,
+      "path": "select/09_Dangal_[www.atozmusiq.in]_Pritam_&_Daler_Mehndi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dhaakad (Aamir Khan Version) [www.atozmusiq.in]",
+      "artist": "Aamir Khan",
+      "has_synced": true,
+      "path": "select/10_Dhaakad_(Aamir_Khan_Version)_[www.atozmusiq.in]_Aamir_Khan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Audio, Video, Disco (WWW)",
+      "artist": "Justice",
+      "has_synced": false,
+      "path": "select/11_Audio,_Video,_Disco_(WWW)_Justice.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Canon × Love S.O.S. (WWW)",
+      "artist": "Justice",
+      "has_synced": false,
+      "path": "select/12_Canon_×_Love_S.O.S._(WWW)_Justice.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "D.A.N.C.E. (WWW)",
+      "artist": "Justice",
+      "has_synced": false,
+      "path": "select/13_D.A.N.C.E._(WWW)_Justice.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "D.A.N.C.E. × Fire × Safe and Sound (WWW)",
+      "artist": "Justice",
+      "has_synced": false,
+      "path": "select/14_D.A.N.C.E._×_Fire_×_Safe_and_Sound_(WWW)_Justice.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WWW",
+      "artist": "HIMEHINA",
+      "has_synced": false,
+      "path": "select/pl_01_WWW_HIMEHINA.txt"
+    }
+  ]
+}
